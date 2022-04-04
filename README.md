@@ -2,6 +2,10 @@
 
 A simple library created for encrypting/decrypting texts with Enigma.
 
+## How to build
+
+Build using Visual Studio and .NET Framework 4.8.
+
 ## Details
 
 Supports:
